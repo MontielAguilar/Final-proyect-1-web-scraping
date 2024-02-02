@@ -2,31 +2,32 @@
   <img src="https://png.pngtree.com/png-vector/20210908/ourmid/pngtree-united-kingdom-flag-png-with-transparent-background-png-image_3917557.jpg" alt="Banner" style="border-radius: 90%;">
 </p>
 
-Web Scraping: Idealista Scraper
-Description
+# Web Scraping: Idealista Scraper
+
+# Description
 The data extraction from Idealista's website has been a significant challenge due to the complexity of obstruction methods implemented by the site. This process was tackled to leverage the richness and reliability of data available on Idealista, despite the inherent complications in web scraping.
 
-Reasons for Choosing Idealista
+# Reasons for Choosing Idealista
 The selection of Idealista as a data source was based on its relevance to the project and the opportunity to face and overcome complex technical challenges. Extracting data from a platform with advanced security measures required not only web scraping knowledge but also the ability to adapt to changes in obstruction tactics over time.
 
-Extraction Method: Python and Web Scraping
+# Extraction Method: Python and Web Scraping
 Python was chosen as the foundation for data extraction due to the lack of an API that met all requirements (reliability, accuracy, and free availability). Although APIs could have been a simpler option, the complexity of specific needs led to the development of custom scraping code using Python.
 
-Use of HideMyAss (HMA)
+# Use of HideMyAss (HMA)
 To overcome Idealista's anti-scraping measures, VPN/IP rotation was implemented using the HMA API. This tool allows automatic IP address changes every 1-5 minutes, proving useful to avoid detection and blocking by Idealista.
 HMA was employed to dynamically change IP addresses, providing anonymity and avoiding detection by Idealista. IP rotation was essential for the success of large-scale scraping.
 HMA ensures online privacy and security by hiding the real IP address, encrypting internet traffic, and offering virtual locations worldwide. Additionally, it provides IP rotation, being crucial for scraping on Idealista.
 
-Main Obstacles and Solutions
+# Main Obstacles and Solutions
 Idealista implements various measures to prevent automated extraction, such as speed limits, captchas, user sessions, page structure limitations, behavior analysis, and IP address blocking. These obstacles were overcome through various strategies, including scraping flow division, the use of rotating VPN/IP, and IP rotation to avoid temporary blocks.
 
-Scraping Code
+# Scraping Code
 The Python language was used along with the libraries requests, BeautifulSoup, and undetected_chromedriver. The code addresses the automatic opening of the browser, automatic cookie acceptance, HTML retrieval, specific information extraction, element searching, and IP rotation with HMA.
 
-Considerations
+# Considerations
 It is essential to consider HMA's log policy and adjust the browser settings to avoid automatic updates that may affect compatibility with the undetected_chromedriver library.
 
-Conclusions
+# Conclusions
 The choice of Idealista as a data source, coupled with the use of Python and HMA, allowed overcoming inherent technical challenges in scraping and obtaining a comprehensive and detailed dataset for the project.
 
 
@@ -36,7 +37,8 @@ The choice of Idealista as a data source, coupled with the use of Python and HMA
 </p>
 
 # Web Scraping: Idealista Scraper
-Descripción
+
+# Descripción
 La obtención de datos de la página web de Idealista ha sido un desafío significativo debido a la complejidad de los métodos de obstrucción implementados por el sitio. Este proceso se abordó para aprovechar la riqueza y confiabilidad de los datos disponibles en Idealista, a pesar de las complicaciones inherentes al scraping.
 
 # Razones para elegir Idealista
