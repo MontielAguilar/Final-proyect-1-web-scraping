@@ -1,4 +1,6 @@
-(https://png.pngtree.com/png-vector/20210908/ourmid/pngtree-united-kingdom-flag-png-with-transparent-background-png-image_3917557.jpg)
+<p align="center">
+  <img src="https://png.pngtree.com/png-vector/20210908/ourmid/pngtree-united-kingdom-flag-png-with-transparent-background-png-image_3917557.jpg" alt="Banner" style="border-radius: 90%;">
+</p>
 
 Web Scraping: Idealista Scraper
 Description
@@ -27,8 +29,12 @@ It is essential to consider HMA's log policy and adjust the browser settings to 
 Conclusions
 The choice of Idealista as a data source, coupled with the use of Python and HMA, allowed overcoming inherent technical challenges in scraping and obtaining a comprehensive and detailed dataset for the project.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------
-(https://c0.klipartz.com/pngpicture/288/791/gratis-png-bandera-de-espana-bandera-de-espana-bandera-de-la-bandera-nacional-de-estados-unidos-icono-de-banderas-de-espana-thumbnail.png)
+
+
+<p align="center">
+  <img src="https://c0.klipartz.com/pngpicture/288/791/gratis-png-bandera-de-espana-bandera-de-espana-bandera-de-la-bandera-nacional-de-estados-unidos-icono-de-banderas-de-espana-thumbnail.png" alt="Banner" style="border-radius: 90%;">
+</p>
+
 # Web Scraping: Idealista Scraper
 Descripción
 La obtención de datos de la página web de Idealista ha sido un desafío significativo debido a la complejidad de los métodos de obstrucción implementados por el sitio. Este proceso se abordó para aprovechar la riqueza y confiabilidad de los datos disponibles en Idealista, a pesar de las complicaciones inherentes al scraping.
